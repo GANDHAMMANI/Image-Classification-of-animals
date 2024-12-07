@@ -40,5 +40,6 @@ This project tackles the challenge of classifying images into three categories:
 🌟 Connect
 Feel free to open issues or contribute to this repository! If you have any queries, reach out to me:
 Email: gandhammani2421@gmail.com
-LinkedIn: [@yourusername](https://www.linkedin.com/in/gandhammanisaketh2421/)
+LinkedIn: [Gandham Mani Saketh](https://www.linkedin.com/in/gandhammanisaketh2421/)
+
 
