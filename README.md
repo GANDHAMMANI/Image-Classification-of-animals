@@ -32,6 +32,13 @@ This project tackles the challenge of classifying images into three categories:
 ![image](https://github.com/user-attachments/assets/ac27a067-6d37-4668-9476-a495fb8c107c)
 
 
-![image](https://github.com/user-attachments/assets/785e918e-40b4-40b8-af9f-3221533c2aac)
+![image](https://github.com/user-attachments/assets/5a5b1697-066a-4930-b939-ed28335450d1)
 
-![image](https://github.com/user-attachments/assets/a6c6859b-4f02-4d4a-b684-74a875df5ba8)
+![image](https://github.com/user-attachments/assets/954bb0bf-eb8a-495f-8f92-f34dc70364d0)
+
+
+🌟 Connect
+Feel free to open issues or contribute to this repository! If you have any queries, reach out to me:
+Email: gandhammani2421@gmail.com
+LinkedIn: [@yourusername](https://www.linkedin.com/in/gandhammanisaketh2421/)
+
